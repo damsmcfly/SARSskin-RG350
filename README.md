@@ -2,6 +2,7 @@
 A clean skin for the handheld console RG350
 
 ![](demo-screenshots/screenshot001.png)  ![](demo-screenshots/screenshot002.png)
+![](demo-screenshots/screenshot003.png)
 
 # Installation
 Download and unzip.\
