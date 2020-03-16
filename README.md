@@ -1,5 +1,5 @@
 # SARSskin-RG350
-A clean skin for the handheld console RG350, made during the SARS-CoV-2 Paris lock-up.
+A clean skin for the handheld console RG350, made during the SARS-CoV-2 Paris lockdown.
 
 ![](demo-screenshots/screenshot001.png)  ![](demo-screenshots/screenshot002.png)
 ![](demo-screenshots/screenshot003.png)
